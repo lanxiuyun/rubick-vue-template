@@ -1,6 +1,7 @@
 # Rubick Vue Template
 
 一个最小可用的 Rubick + Vue3 + Vite 模板，包含路由、Pinia、Rubick API 类型定义等常用脚手架能力，适合快速搭建 Rubick 插件的界面层。
+![image](.readme/image.png)
 
 ## 特性
 
