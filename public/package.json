@@ -1,0 +1,24 @@
+{
+  "name": "lanxiuyun-test",
+  "pluginName": "测试",
+  "version": "0.0.1",
+  "description": "测试",
+  "main": "index.html",
+  "preload": "preload.js",
+  "logo": "https://avatars.githubusercontent.com/u/212650356?v=4",
+  "pluginType": "ui",
+  "features": [
+    {
+      "code": "test",
+      "explain": "测试",
+      "cmds": [
+        "测试",
+        "test"
+      ]
+    }
+  ],
+  "author": "lanxiuyun",
+  "license": "MIT",
+  "development": "http://localhost:4001",
+  "homePage": "https://github.com/lanxiuyun/rubick-vue-template"
+}
